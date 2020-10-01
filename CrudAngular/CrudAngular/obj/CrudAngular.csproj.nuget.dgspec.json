@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yuri\\source\\repos\\yuri3gp\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj": {}
+    "C:\\Users\\Yuri\\Source\\Repos\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yuri\\source\\repos\\yuri3gp\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj": {
+    "C:\\Users\\Yuri\\Source\\Repos\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yuri\\source\\repos\\yuri3gp\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj",
+        "projectUniqueName": "C:\\Users\\Yuri\\Source\\Repos\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj",
         "projectName": "CrudAngular",
-        "projectPath": "C:\\Users\\Yuri\\source\\repos\\yuri3gp\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj",
+        "projectPath": "C:\\Users\\Yuri\\Source\\Repos\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj",
         "packagesPath": "C:\\Users\\Yuri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yuri\\source\\repos\\yuri3gp\\crudAngular\\CrudAngular\\CrudAngular\\obj\\",
+        "outputPath": "C:\\Users\\Yuri\\Source\\Repos\\crudAngular\\CrudAngular\\CrudAngular\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
