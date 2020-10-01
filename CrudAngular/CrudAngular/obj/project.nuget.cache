@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "s/7gXEI3JoGdFxi6Ogk45FkhC9XmLgVvToBlwUPCmb0TCcxAEv8ERBPhF6pBtrE1ZCnETi9tyEJPb1dkudFZ0g==",
+  "dgSpecHash": "pMZpL6CpOiiYlBxSdLGCaBG6YSdaXqV/DrIK7L0ZyB1FdFa8IY20pX8ItEw/0JIS9DISBoJVkcDT0sKehRNZGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yuri\\Source\\Repos\\crudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\YuriCrudAngular\\CrudAngular\\CrudAngular\\CrudAngular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.souza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pedro.souza\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\pedro.souza\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.3\\swashbuckle.aspnetcore.5.3.3.nupkg.sha512",
+    "C:\\Users\\pedro.souza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.3\\swashbuckle.aspnetcore.swagger.5.3.3.nupkg.sha512",
+    "C:\\Users\\pedro.souza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.3\\swashbuckle.aspnetcore.swaggergen.5.3.3.nupkg.sha512",
+    "C:\\Users\\pedro.souza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.3\\swashbuckle.aspnetcore.swaggerui.5.3.3.nupkg.sha512"
+  ],
   "logs": []
 }
