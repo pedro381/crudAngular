@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAngular", "CrudAngular\CrudAngular.csproj", "{DACD9A52-A0EA-48D7-96A6-0516E7771695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACD9A52-A0EA-48D7-96A6-0516E7771695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACD9A52-A0EA-48D7-96A6-0516E7771695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACD9A52-A0EA-48D7-96A6-0516E7771695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACD9A52-A0EA-48D7-96A6-0516E7771695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038A77DA-D8A8-4E6E-9A13-3B2C131053FB}
+	EndGlobalSection
+EndGlobal
